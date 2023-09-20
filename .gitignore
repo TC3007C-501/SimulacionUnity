@@ -1,8 +1,7 @@
 # Modified from:
 #     https://github.com/github/gitignore/blob/master/Unity.gitignore
 
-/[Ll]ibrary/
-/[Uu]serSettings/
+**/[Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 /[Bb]uild/
